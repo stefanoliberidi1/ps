@@ -1,0 +1,98 @@
+{
+	"mp3file": "file:\/\/\/C:\/eclipse_workspace\/maven-prova\/target\/classes\/Earthbalance.mp3",
+	"messages": [
+		{
+			"time_ms":500,
+			"target": "http://192.168.1.103/function?FUNCTION=0&r=0&g=0&b=0&FlashDelay=30&pin0=1"
+		},
+		
+		{
+			"time_ms": 28188,
+			"target": "http://192.168.1.103/function?FUNCTION=1&r=0&g=0&b=128&FlashDelay=30&pin0=1"
+		},
+		
+		{
+			"time_ms": 32010,
+			"target": "http://192.168.1.103/function?FUNCTION=6&r=0&g=0&b=0&r2=0&g2=0&b2=160&StrobeCount=50&FlashDelay=50&pin0=1"
+		},
+		{
+			"time_ms": 56000,
+			"target": "http://192.168.1.103/function?FUNCTION=6&r=0&g=0&b=128&r2=0&g2=0&b2=0&StrobeCount=80&FlashDelay=42&pin0=1&reverse=1"
+		}
+		,
+		{
+			"time_ms": 59983,
+			"target": "http://192.168.1.103/function?FUNCTION=0&r=0&g=0&b=0&pin0=1"
+		},
+		{
+			"time_ms": 165803,
+			"target": "http://192.168.1.103/function?FUNCTION=4&r=0&g=0&b=128&FlashDelay=20&pin0=1"
+		}
+		,
+		{
+			"time_ms": 167103,
+			"target": "http://192.168.1.103/function?FUNCTION=6&r=0&g=0&b=128&r2=234&g2=0&b2=234&StrobeCount=60&FlashDelay=60&pin0=1&reverse=1"
+		}
+		,
+		{
+			"time_ms": 167103,
+			"target": "http://192.168.1.105/function?FUNCTION=6&r=0&g=0&b=0&r2=0&g2=0&b2=160&StrobeCount=50&FlashDelay=50&pin0=1"
+		}
+		
+		
+		,
+		{
+			"time_ms": 174800,
+			"target": "http://192.168.1.103/function?FUNCTION=6&r=234&g=0&b=234&r2=68&g2=68&b2=68&StrobeCount=60&FlashDelay=30&pin0=1&reverse=1"
+		}
+		,
+		{
+			"time_ms": 181000,
+			"target": "http://192.168.1.103/function?FUNCTION=6&r=111&g=111&b=111&r2=0&g2=0&b2=174&StrobeCount=50&FlashDelay=30&pin0=1&reverse=1"
+		}
+		
+		,
+		{
+			"time_ms": 187900,
+			"target": "http://192.168.1.103/function?FUNCTION=3&r=111&g=111&b=111&r2=0&g2=0&b2=174&FlashDelay=40&pin0=1&reverse=1"
+		}
+		,
+		{
+			"time_ms": 194900,
+			"target": "http://192.168.1.103/function?FUNCTION=0&r=50&g=50&b=50&pin0=1"
+		}
+		,
+		{
+			"time_ms": 200600,
+			"target": "http://192.168.1.103/function?FUNCTION=6&r=51&g=51&b=51&r2=0&g2=140&b2=140&StrobeCount=40&FlashDelay=25&pin0=1&reverse=1"
+		},
+		{
+			"time_ms": 209000,
+			"target": "http://192.168.1.103/function?FUNCTION=5&r=0&g=140&b=140&FlashDelay=25&pin0=1&reverse=1"
+		}
+		,
+		{
+			"time_ms": 217100,
+			"target": "http://192.168.1.103/function?FUNCTION=1&r=0&g=140&b=140&FlashDelay=500&pin0=1&reverse=1"
+		}
+		,
+		{
+			"time_ms": 222100,
+			"target": "http://192.168.1.103/function?FUNCTION=4&r=159&g=0&b=159&FlashDelay=35&pin0=1&reverse=1"
+		}
+		,
+		{
+			"time_ms": 227400,
+			"target": "http://192.168.1.103/function?FUNCTION=6&r=159&g=0&b=159&r2=0&g2=0&b2=187&StrobeCount=40&FlashDelay=35&pin0=1&reverse=1"
+		}
+		,
+		{
+			"time_ms": 241300,
+			"target": "http://192.168.1.103/function?FUNCTION=6&r=159&g=0&b=159&r2=0&g2=0&b2=187&StrobeCount=40&FlashDelay=35&pin0=1&reverse=1"
+		}
+		
+	]
+	
+	
+	
+}

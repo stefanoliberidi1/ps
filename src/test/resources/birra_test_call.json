@@ -1,0 +1,306 @@
+{
+ "mp3file":"C:\/eclipse_workspace\/maven-prova\/target\/classes\/mission.mp3",
+ "messages":
+	[
+      {
+		 "time_ms": 251,
+         "target": "http://192.168.1.101/function?FUNCTION=1&r=10&g=0&b=0&FlashDelay=30&pin0=1&pin1=1"      
+      }	  
+	  ,
+	  {
+		 "time_ms": 300,
+         "target": "http://192.168.1.105/function?FUNCTION=1&r=10&g=0&b=0&FlashDelay=30&pin0=1&pin1=1"      
+      }	  
+	  ,
+	  {
+		 "time_ms": 2880,
+         "target": "http://192.168.1.101/function?FUNCTION=0&r=10&g=20&b=0&FlashDelay=30&pin0=1&pin1=1"      
+      }	  
+	  ,
+	  {
+		 "time_ms": 2890,
+         "target": "http://192.168.1.105/function?FUNCTION=0&r=10&g=20&b=0&FlashDelay=30&pin0=1&pin1=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 3000,
+         "target": "http://192.168.1.105/function?FUNCTION=0&r=0&g=0&b=0&FlashDelay=30&pin0=1&pin1=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 3050,
+         "target": "http://192.168.1.101/function?FUNCTION=0&r=0&g=0&b=0&FlashDelay=30&pin0=1&pin1=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 3120,
+         "target": "http://192.168.1.105/function?FUNCTION=0&r=20&g=0&b=0&FlashDelay=30&pin0=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 3570,
+         "target": "http://192.168.1.101/function?FUNCTION=0&r=20&g=0&b=0&FlashDelay=30&pin0=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 3860,
+         "target": "http://192.168.1.105/function?FUNCTION=0&r=20&g=0&b=0&FlashDelay=30&pin1=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 4200,
+         "target": "http://192.168.1.101/function?FUNCTION=0&r=20&g=0&b=0&FlashDelay=30&pin1=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 4670,
+         "target": "http://192.168.1.105/function?FUNCTION=0&r=0&g=20&b=0&FlashDelay=30&pin0=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 5090,
+         "target": "http://192.168.1.101/function?FUNCTION=0&r=0&g=20&b=0&FlashDelay=30&pin0=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 5384,
+         "target": "http://192.168.1.105/function?FUNCTION=0&r=0&g=20&b=20&FlashDelay=30&pin1=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 50706,
+         "target": "http://192.168.1.101/function?FUNCTION=0&r=0&g=20&b=20&FlashDelay=30&pin1=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 6195,
+         "target": "http://192.168.1.105/function?FUNCTION=0&r=0&g=20&b=20&FlashDelay=30&pin0=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 6634,
+         "target": "http://192.168.1.101/function?FUNCTION=0&r=0&g=20&b=20&FlashDelay=30&pin0=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 6700,
+         "target": "http://192.168.1.105/function?FUNCTION=0&r=20&g=20&b=20&FlashDelay=30&pin0=1&pin1=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 6710,
+         "target": "http://192.168.1.101/function?FUNCTION=0&r=20&g=20&b=20&FlashDelay=30&pin0=1&pin1=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 7260,
+         "target": "http://192.168.1.105/function?FUNCTION=0&r=0&g=0&b=20&FlashDelay=30&pin0=1&pin1=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 7360,
+         "target": "http://192.168.1.101/function?FUNCTION=0&r=0&g=0&b=20&FlashDelay=30&pin0=1&pin1=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 7600,
+         "target": "http://192.168.1.105/function?FUNCTION=0&r=0&g=0&b=0&FlashDelay=30&pin0=1&pin1=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 7660,
+         "target": "http://192.168.1.101/function?FUNCTION=0&r=0&g=0&b=0&FlashDelay=30&pin0=1&pin1=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 8150,
+         "target": "http://192.168.1.101/function?FUNCTION=0&r=0&g=30&b=0&FlashDelay=30&pin0=1&pin1=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 8350,
+         "target": "http://192.168.1.105/function?FUNCTION=0&r=0&g=30&b=0&FlashDelay=30&pin0=1&pin1=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 9050,
+         "target": "http://192.168.1.101/function?FUNCTION=4&r=17&g=17&b=0&FlashDelay=90&pin0=1&pin1=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 9051,
+         "target": "http://192.168.1.105/function?FUNCTION=4&r=17&g=17&b=0&FlashDelay=90&pin0=1&pin1=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 9200,
+         "target": "http://192.168.1.101/function?FUNCTION=4&r=17&g=17&b=17&FlashDelay=150&pin0=1&reverse=1"      
+      }	  
+	  ,
+	  {
+		 "time_ms": 9201,
+         "target": "http://192.168.1.105/function?FUNCTION=4&r=17&g=17&b=17&FlashDelay=150&pin0=1&reverse=1"      
+      }	
+	  ,
+	  {
+		 "time_ms": 9400,
+         "target": "http://192.168.1.101/function?FUNCTION=4&r=17&g=17&b=17&FlashDelay=80&pin1=1&reverse=1"      
+      }	  
+	  ,
+	  {
+		 "time_ms": 9401,
+         "target": "http://192.168.1.105/function?FUNCTION=4&r=17&g=17&b=17&FlashDelay=80&pin1=1&reverse=1"      
+      }	
+	  ,
+	  {
+		 "time_ms": 13900,
+         "target": "http://192.168.1.101/function?FUNCTION=0&r=0&g=17&b=0&FlashDelay=80&pin1=1&pin0=1"      
+      }	  
+	  ,
+	  {
+		 "time_ms": 13901,
+         "target": "http://192.168.1.105/function?FUNCTION=0&r=0&g=17&b=0&FlashDelay=80&pin1=1&pin0=1"      
+      }	
+	  ,
+	  {
+		 "time_ms": 18000,
+         "target": "http://192.168.1.105/function?FUNCTION=1&r=0&g=17&b=0&FlashDelay=200&pin0=1"      
+      }	
+	  ,
+	  {
+		 "time_ms": 18200,
+         "target": "http://192.168.1.101/function?FUNCTION=1&r=0&g=17&b=0&FlashDelay=200&pin0=1"      
+      }	
+	  ,
+	  {
+		 "time_ms": 18650,
+         "target": "http://192.168.1.105/function?FUNCTION=1&r=20&g=0&b=0&FlashDelay=200&pin1=1"      
+      }	
+	  ,
+	  {
+		 "time_ms": 18850,
+         "target": "http://192.168.1.101/function?FUNCTION=1&r=20&g=0&b=0&FlashDelay=200&pin1=1"      
+      }	
+	  ,
+	  {
+		 "time_ms": 22100,
+         "target": "http://192.168.1.105/function?FUNCTION=0&r=20&g=0&b=0&FlashDelay=200&pin1=1&pin0=1"      
+      }	
+	  ,
+	  {
+		 "time_ms": 22300,
+         "target": "http://192.168.1.101/function?FUNCTION=0&r=20&g=0&b=0&FlashDelay=200&pin1=1&pin0=1"      
+      }
+      ,
+	  {
+		 "time_ms": 23100,
+         "target": "http://192.168.1.101/function?FUNCTION=0&r=0&g=0&b=0&FlashDelay=200&pin1=1&pin0=1"      
+      }	 
+	  ,
+	  {
+		 "time_ms": 23150,
+         "target": "http://192.168.1.105/function?FUNCTION=0&r=0&g=0&b=0&FlashDelay=200&pin1=1&pin0=1"      
+      }		 
+	  ,
+	  {
+		 "time_ms": 24000,
+         "target": "http://192.168.1.101/function?FUNCTION=4&r=0&g=0&b=30&FlashDelay=50&pin1=1"      
+      }	  
+	  ,
+	  {
+		 "time_ms": 25000,
+         "target": "http://192.168.1.101/function?FUNCTION=4&r=0&g=0&b=30&FlashDelay=50&pin0=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 26000,
+         "target": "http://192.168.1.105/function?FUNCTION=4&r=0&g=0&b=30&FlashDelay=50&pin1=1"      
+      }	  
+	  ,
+	  {
+		 "time_ms": 27000,
+         "target": "http://192.168.1.105/function?FUNCTION=4&r=0&g=0&b=30&FlashDelay=50&pin0=1"      
+      }	
+	  ,
+	  {
+		 "time_ms": 30500,
+         "target": "http://192.168.1.105/function?FUNCTION=1&r=17&g=17&b=0&FlashDelay=50&pin0=1"      
+      }	
+	  ,
+	  {
+		 "time_ms": 30700,
+         "target": "http://192.168.1.101/function?FUNCTION=1&r=17&g=17&b=0&FlashDelay=50&pin0=1"      
+      }
+	  ,
+	  {
+		 "time_ms": 30900,
+         "target": "http://192.168.1.101/function?FUNCTION=1&r=0&g=17&b=17&FlashDelay=50&pin1=1"      
+      }	
+	  ,
+	  {
+		 "time_ms": 31100,
+         "target": "http://192.168.1.105/function?FUNCTION=1&r=0&g=17&b=17&FlashDelay=50&pin1=1"      
+      }	
+	  ,
+	  {
+		 "time_ms": 32300,
+         "target": "http://192.168.1.101/function?FUNCTION=1&r=17&g=17&b=17&FlashDelay=80&pin0=1"      
+      }	
+	  ,
+	  {
+		 "time_ms": 32500,
+         "target": "http://192.168.1.105/function?FUNCTION=1&r=17&g=17&b=17&FlashDelay=50&pin0=1"      
+      }	
+	  ,
+	  {
+		 "time_ms": 32700,
+         "target": "http://192.168.1.101/function?FUNCTION=1&r=0&g=17&b=17&FlashDelay=40&pin0=1&pin1=1"      
+      }	
+	  ,
+	  {
+		 "time_ms": 32500,
+         "target": "http://192.168.1.105/function?FUNCTION=1&r=17&g=17&b=0&FlashDelay=40&pin0=1&pin1=1"      
+      }	
+	  ,
+	  {
+		 "time_ms": 34900,
+         "target": "http://192.168.1.101/function?FUNCTION=1&r=0&g=0&b=17&FlashDelay=20&pin0=1"      
+      }	
+	  ,
+	  {
+		 "time_ms": 35000,
+         "target": "http://192.168.1.105/function?FUNCTION=1&r=0&g=17&b=0&FlashDelay=20&pin0=1"      
+      }	
+	  ,
+	  {
+		 "time_ms": 35200,
+         "target": "http://192.168.1.101/function?FUNCTION=1&r=0&g=0&b=17&FlashDelay=20&pin1=1"      
+	   }
+	   ,
+	   {
+		 "time_ms": 35400,
+         "target": "http://192.168.1.105/function?FUNCTION=1&r=0&g=17&b=0&FlashDelay=20&pin1=1"      
+       }	
+	   ,
+	   {
+		 "time_ms": 37000,
+         "target": "http://192.168.1.101/function?FUNCTION=4&r=17&g=0&b=0&FlashDelay=280&pin1=1&pin0=1&reverse=1"      
+	   }
+	   ,
+	   {
+		 "time_ms": 37200,
+         "target": "http://192.168.1.105/function?FUNCTION=4&r=17&g=0&b=0&FlashDelay=260&pin1=1&pin0=1&reverse=1"      
+       }	
+	   ,
+	   {
+		 "time_ms": 39800,
+         "target": "http://192.168.1.105/function?FUNCTION=0&r=0&g=0&b=0&FlashDelay=30&pin0=1&pin1=1"      
+       }
+	   ,
+	   {
+		 "time_ms": 39999,
+         "target": "http://192.168.1.101/function?FUNCTION=0&r=0&g=0&b=0&FlashDelay=30&pin0=1&pin1=1"      
+       }
+	  
+   ]
+}
