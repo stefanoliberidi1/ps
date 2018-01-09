@@ -8,7 +8,7 @@ import org.apache.http.impl.nio.client.HttpAsyncClients;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 
-import java.io.FileWriter;
+//import java.io.FileWriter;
 import java.io.IOException;
 
 import org.json.simple.JSONArray;
@@ -38,7 +38,7 @@ import java.util.Map;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.Future;
 
-@SuppressWarnings("restriction")
+@SuppressWarnings({ "restriction", "unused" })
 public class lsmain extends Application {
 
 	@SuppressWarnings("unchecked")
@@ -224,7 +224,7 @@ public class lsmain extends Application {
 					public void failed(final Exception ex) {
 						latch.countDown();
 						System.out.println(request.getRequestLine() + "->" + ex);
-						ex.printStackTrace();
+						//ex.printStackTrace();
 					}
 
 					@Override

@@ -20,7 +20,7 @@ public class httpClient {
 				Future<HttpResponse> future = httpclient.execute(request, null);
 				HttpResponse response = future.get();
 
-				// System.out.println("Response: " + response.getStatusLine());
+				 System.out.println("Response: " + response.getStatusLine());
 			}
 
 		} catch (Exception e) {
