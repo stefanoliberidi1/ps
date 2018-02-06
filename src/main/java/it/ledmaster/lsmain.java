@@ -41,10 +41,12 @@ import java.util.concurrent.Future;
 @SuppressWarnings({ "restriction", "unused" })
 public class lsmain extends Application {
 
+	public static double pre = 180;
+	
 	@SuppressWarnings("unchecked")
 	void playMedia() {
 		System.out.println("Hello from playSuite");
-		double pre = 180;
+		
 
 		httpclient.start();
 
@@ -107,7 +109,7 @@ public class lsmain extends Application {
 					ArrayList<HttpGet> l = (ArrayList<HttpGet>) httpCalls.get(time);
 					l.add(new HttpGet(target));
 				} else {
-					System.out.println("Chiamata singola");
+					System.out.println("Chiamata: ");
 					ArrayList<HttpGet> l = new ArrayList<HttpGet>();
 					l.add(new HttpGet(target));
 					httpCalls.put(time, l);
@@ -144,6 +146,14 @@ public class lsmain extends Application {
 
 		);
 
+		try {
+			System.out.println("Sistema pronto, premere [INVIO] per continuare :");
+			int i=System.in.read();
+			//System.out.println("Valore byte letto "+i);
+		}catch (Exception e) {
+			System.out.println(e.toString());
+		}
+		
 		System.out.println("----------- START -----------");
 
 		
@@ -164,22 +174,28 @@ public class lsmain extends Application {
 	static String jsonFile;
 	static String startMS;
 	static String stopMS;
+	static String preCall;
 	
 	public static void main(String[] args) {
 		if (args.length==0) {
 			System.out.println("NO PARAMS --> EXITING PROGRAM");
 			System.exit(1);
-		}else if (args.length!=3) {
-			System.out.println("3 PRAMS REQUIRED --> EXITING PROGRAM");
+		}else if (args.length!=4) {
+			System.out.println("4 PRAMS REQUIRED --> EXITING PROGRAM");
 			System.exit(1);
 		}
 		jsonFile=args[0];
 		startMS=args[1];
 		stopMS=args[2];
-		System.out.println("PARAM 0="+jsonFile);
-		System.out.println("PARAM 1="+startMS);
-		System.out.println("PARAM 2="+stopMS);
+		preCall=args[3];
+		
+		System.out.println("PARAM 1="+jsonFile);
+		System.out.println("PARAM 2="+startMS);
+		System.out.println("PARAM 3="+stopMS);
+		System.out.println("PARAM 4="+preCall);
+		pre=Double.parseDouble(preCall);
 		new lsmain().playMedia();
+		System.out.println("----------- END -----------");
 		System.exit(0);
 	}
 
